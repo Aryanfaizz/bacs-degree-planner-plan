@@ -1,0 +1,9 @@
+id,risk,impact,owner,trigger,response,status
+R1,Curriculum sources conflict or rules unreviewed,Incorrect student guidance,S2,Rule lacks source/reviewer,Show unknown; request advisor review; use synthetic tests,Open
+R2,FCS cannot host chosen API/database,Hosted admin blocked,TD,No persistent runtime/storage confirmed by Oct 25,Obtain hosting answer early; agree alternative/local demo with client,Open
+R3,Individual availability not yet confirmed,Capacity overestimated,PD,Available hours missing at planning,Confirm hours; reduce story commitments and batch sizes,Open
+R4,Work remains only on a local machine,Graded work may receive zero,All; PD checks,PR/commit not visible remotely before due date,Push daily and verify evidence before deadline,Open
+R5,Scope exceeds part-time capacity,Final acceptance rushed,PD,Carryover or review queue grows,Split stories; cut stretch scope; protect freeze and acceptance,Open
+R6,Presentation/closing dates unknown,Missed preparation or submission,PD,No instructor confirmation,Ask early and check weekly; prepare alongside Sprint 4,Open
+R7,Unclear prototype reuse or AI attribution rules,Contribution declarations inaccurate,PD,Reuse starts without course guidance,Confirm policy and log provenance for adapted work,Open
+R8,Browser storage cleared or unavailable,Student plan lost,S2,Storage write fails or user changes device,Explain local save; support export; show failures,Open

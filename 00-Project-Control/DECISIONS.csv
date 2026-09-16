@@ -1,0 +1,5 @@
+id,date,question,options,decision,owner,evidence,status
+D1,2026-09-16,2026 term and six-person team,User confirmation,One PD; one TD; two seniors; two juniors,PD,User conversation on 2026-09-16,Confirmed
+D2,,Hosting for admin,,,TD,,Pending
+D3,,BACS curriculum source authority,,,PD/S2,,Pending
+D4,2026-09-16,Product scope,Current prototype vs expanded features,Rebuild current bacs-planner as it is now,PD,User conversation on 2026-09-16,Confirmed

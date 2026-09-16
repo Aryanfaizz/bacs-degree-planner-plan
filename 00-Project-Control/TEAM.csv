@@ -1,0 +1,7 @@
+role,name,mentor_or_reviewer,availability_hours_per_week,role_confirmed,notes
+Project Director,You; development director / product coordination,Technical Director,TBD,Yes; name/availability pending,"Priorities, client contact, sprint coordination, evidence and acceptance; small frontend work only after coordination is covered."
+Technical Director,Name TBD,Senior Developer 1 or 2,TBD,Yes; name/availability pending,"Architecture, infrastructure, complex implementation, integration and technical mentoring. Reserve time for coding and reviews."
+Senior Developer 1,Name TBD,Senior Developer 2 / Technical Director,TBD,Yes; name/availability pending,"Main frontend coder: shell, explorer, planner interactions, map and accessibility. Mentor Junior Developer 1."
+Senior Developer 2,Name TBD,Senior Developer 1 / Technical Director,TBD,Yes; name/availability pending,"Main domain coder: curriculum data, plan state, validation, import/export and admin integration. Mentor Junior Developer 2."
+Junior Developer 1,Name TBD; role confirmed,Senior Developer 1,TBD,Yes; name/availability pending,"Small UI, copy, component examples and usability checks. Pair before starting; one small task at a time."
+Junior Developer 2,Name TBD; role confirmed,Senior Developer 2,TBD,Yes; name/availability pending,"Small source-recording, fixtures, documentation and manual QA tasks. A senior approves academic interpretations."
